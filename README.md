@@ -1,12 +1,11 @@
 # UDEA-ai4eng-20252---Pruebas-Saber-Pro-Colombia---Entrega-1
-# Proyecto: Predicción de Rendimiento Global en las Pruebas Saber Pro
 
 ## Participantes
 - **Nombre:** Juan Pablo Lopera Botero  
   **Cédula:** 1025641683  
   **Programa:** Ingenieria Civil
 
--
+
 ## Entrega
 Este repositorio contiene la **Entrega 1** de la competencia:
 - `README.md` → Información de los participantes.
